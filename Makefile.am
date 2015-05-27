@@ -1,4 +1,4 @@
-SUBDIRS = . libuhttpmock/tests libuhttpmock/docs
+SUBDIRS = . libuhttpmock/tests libuhttpmock/docs libuhttpmock/future_doc
 
 ACLOCAL_AMFLAGS = -I m4
 
